@@ -1,3 +1,3 @@
-# Algorithm
+# Algorithm / prepare the interview
 
-Record the written algorithm
+
